@@ -1,4 +1,8 @@
 # DIO - Trilha .NET - Testes Unitários com C#
+*Este projeto foi desenvolvido como parte de um desafio focado na implementação e validação de testes unitários utilizando o framework xUnit. O objetivo principal foi garantir a qualidade e a confiabilidade do código por meio de testes estruturados e eficientes.*
+
+*As correções e implementações realizadas durante o desafio estão organizadas na pasta TestesUnitarios.Desafio.Tests. Nela, você encontrará os testes unitários que cobrem os cenários propostos abaixo.*
+
 www.dio.me
 
 ## Desafio de projeto
